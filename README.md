@@ -17,7 +17,7 @@ For instance, the figure below shows the result when the user input "1/1/2010" i
 ![Multiple Criteria](static/images/multiple_criteria.PNG)
 
 ## Analysis
-A drawback of this webpage is that the user has to input the exact date format as the dataset's date format. Although the placeholder already demonstrates the appropriate date format, some users may just input data in their preferred format, thus not giving the appropriate results.
+To summarize, this webpage allow users to search for UFO sightings by filtering multiple criteria, including date, city, state, country and shape. However, a drawback of this webpage is that the user has to input the exact date format as the dataset's date format. Although the placeholder already demonstrates the appropriate date format, some users may just input data in their preferred format, thus not giving the appropriate results.
 
 A recommendation for further development is to solve the drawback mentioned above. Regular expression may be used such that users may enter date in their preferred format and generate the correct results.
 
